@@ -198,3 +198,11 @@ footer a:hover {
     text-decoration: underline;
     color: var(--cor1);
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding-bottom: 30px;
+}
